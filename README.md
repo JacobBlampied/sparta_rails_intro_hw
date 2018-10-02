@@ -1,24 +1,16 @@
-# README
+#Sparta Rails Intro
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Description
+The aim of this project is to use Ruby on Rails to generate an application.
 
-Things you may want to cover:
+##Languages used
+* Ruby
+* Rails
 
-* Ruby version
 
-* System dependencies
+##How to download
+Clone down the repositiory using the following console command:
+git clone git@github.com:JacobBlampied/sparta_rails_intro_hw.git
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##Challenges
+* Navigating around ruby on rails 
